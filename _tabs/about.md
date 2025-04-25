@@ -12,13 +12,14 @@ When I’m not immersed in tech, you’ll probably find me outdoors—**running*
 Let’s connect and build something great together!  
 🔗 [linkedin.com/in/your-profile](https://www.linkedin.com/in/dinushatharindu)
 
+
 ## ❤️ Charity
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 16px;">
 
-  <img src="assets/run-cancerhospital.jpg" alt="Charity 1" style="width: 100%; border-radius: 12px;" />
-  <img src="assets/rundonation.jpg" alt="Charity 2" style="width: 100%; border-radius: 12px;" />
-  <img src="assets/charityrun.jpg" alt="Charity 3" style="width: 100%; border-radius: 12px;" />
+  <img src="assets/run-cancerhospital.jpg" alt="Charity 1" style="width: 100%; height: 200px; object-fit: cover; border-radius: 12px;" />
+  <img src="assets/rundonation.jpg" alt="Charity 2" style="width: 100%; height: 200px; object-fit: cover; border-radius: 12px;" />
+  <img src="assets/charityrun.jpg" alt="Charity 3" style="width: 100%; height: 200px; object-fit: cover; border-radius: 12px;" />
 
 </div>
 
@@ -28,10 +29,10 @@ Let’s connect and build something great together!
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 16px;">
 
-  <img src="assets/trailrunning.jpg" alt="Running 1" style="width: 100%; border-radius: 12px;" />
-  <img src="assets/charityrun2.jpg" alt="Running 2" style="width: 100%; border-radius: 12px;" />
-  <img src="assets/trailrunning2.jpg" alt="Running 3" style="width: 100%; border-radius: 12px;" />
-  <img src="assets/charitymarathon.jpg" alt="Running 4" style="width: 100%; border-radius: 12px;" />
+  <img src="assets/trailrunning.jpg" alt="Running 1" style="width: 100%; height: 200px; object-fit: cover; border-radius: 12px;" />
+  <img src="assets/charityrun2.jpg" alt="Running 2" style="width: 100%; height: 200px; object-fit: cover; border-radius: 12px;" />
+  <img src="assets/trailrunning2.jpg" alt="Running 3" style="width: 100%; height: 200px; object-fit: cover; border-radius: 12px;" />
+  <img src="assets/charitymarathon.jpg" alt="Running 4" style="width: 100%; height: 200px; object-fit: cover; border-radius: 12px;" />
 
 </div>
 
@@ -41,14 +42,13 @@ Let’s connect and build something great together!
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 16px;">
 
-  <img src="assets/hikesrilanka.jpg" alt="Hiking 1" style="width: 100%; border-radius: 12px;" />
-  <img src="assets/hikehillside.jpg" alt="Hiking 2" style="width: 100%; border-radius: 12px;" />
-  <img src="assets/hiking1.jpg" alt="Hiking 3" style="width: 100%; border-radius: 12px;" />
-  <img src="assets/hiking2.jpg" alt="Hiking 4" style="width: 100%; border-radius: 12px;" />
-  <img src="assets/cycling.jpg" alt="Hiking 5" style="width: 100%; border-radius: 12px;" />
+  <img src="assets/hikesrilanka.jpg" alt="Hiking 1" style="width: 100%; height: 200px; object-fit: cover; border-radius: 12px;" />
+  <img src="assets/hikehillside.jpg" alt="Hiking 2" style="width: 100%; height: 200px; object-fit: cover; border-radius: 12px;" />
+  <img src="assets/hiking1.jpg" alt="Hiking 3" style="width: 100%; height: 200px; object-fit: cover; border-radius: 12px;" />
+  <img src="assets/hiking2.jpg" alt="Hiking 4" style="width: 100%; height: 200px; object-fit: cover; border-radius: 12px;" />
+  <img src="assets/cycling.jpg" alt="Hiking 5" style="width: 100%; height: 200px; object-fit: cover; border-radius: 12px;" />
 
 </div>
-
 
 
 {: .prompt-tip }
