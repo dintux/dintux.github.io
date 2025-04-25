@@ -10,7 +10,7 @@ What drives me? Innovation, teamwork, and the joy of learning something new ever
 When I’m not immersed in tech, you’ll probably find me outdoors—**running**, **cycling**, or **hiking** somewhere beautiful. I also volunteer for causes close to my heart, including **cancer research**, **animal welfare**, and **environmental conservation**.
 
 Let’s connect and build something great together!  
-🔗 [linkedin.com/in/your-profile](https://www.linkedin.com/in/dinushatharindu)
+🔗 [linkedin](https://www.linkedin.com/in/dinushatharindu)
 
 
 ## ❤️ Charity
