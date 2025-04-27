@@ -70,7 +70,6 @@ In this case:
 
 -   The `sig=xyz123` is the signature to validate the request.
 
-Your colleague can now access the file using the SAS URL, but they won't be able to modify or delete anything in your storage account.
 
 
 ### **How a Shared Access Signature (SAS) Works**
