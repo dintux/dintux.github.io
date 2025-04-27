@@ -53,17 +53,16 @@ Let’s connect and build something great together!
 <!-- Space between Posts (add margin-bottom to the first post or margin-top to the second post) -->
 <div style="height: 50px;"></div> <!-- This creates space -->
 
-
 <div style="margin: 20px auto; padding: 15px; max-width: 900px; background: #f4f4f9; border-radius: 10px; box-shadow: 0 6px 12px rgba(0,0,0,0.1);">
 
-  <div style="display: flex; justify-content: center; align-items: flex-start; text-align: center; gap: 15px; padding: 20px; background: linear-gradient(135deg, #e6f2ff, #f2f9ff); border-radius: 10px; box-shadow: 0 6px 12px rgba(0,0,0,0.1);">
+  <div style="display: flex; justify-content: center; align-items: flex-start; text-align: center; gap: 15px; padding: 20px; border-radius: 10px; box-shadow: 0 6px 12px rgba(0,0,0,0.1);">
 
     <!-- First Column (LinkedIn Profile) -->
-    <div style="flex: 1; max-width: 160px; padding: 10px; border: 2px solid #66b3ff; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); transition: transform 0.3s ease-in-out;">
+    <div style="flex: 1; max-width: 160px; padding: 10px; border: 2px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
       <a href="https://www.linkedin.com/in/dinushatharindu/" target="_blank" style="text-decoration: none; color: inherit;">
-        <strong style="font-size: 12px; color: #333;">Meet me on LinkedIn</strong><br><br>
+        <strong style="font-size: 12px;">Meet me on LinkedIn</strong><br><br>
         <img src="https://media.licdn.com/dms/image/v2/D5603AQEvsf5kX0_8jw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1696480058873?e=1751500800&v=beta&t=2beBrDxeX7DAhi0ICDUB89iNUG0z-WGCwOUcdeGDTkk" alt="Dinusha Tharindu" style="border-radius: 50%; width: 40px; height: 40px;"><br><br>
-        <span style="font-size: 10px; color: #333;">SME - Azure, DevOps, Citrix and Windows stack.<br>Enthusiast Of Cyber Security.</span>
+        <span style="font-size: 10px;">SME - Azure, DevOps, Citrix and Windows stack.<br>Enthusiast Of Cyber Security.</span>
       </a>
     </div>
 
@@ -71,18 +70,18 @@ Let’s connect and build something great together!
     <div style="flex: 2; display: flex; flex-direction: column; gap: 15px;">
 
       <!-- Free Microsoft Courses -->
-      <div style="padding: 10px; border: 2px solid #66b3ff; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); transition: transform 0.3s ease-in-out;">
+      <div style="padding: 10px; border: 2px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
         <a href="https://learn.microsoft.com/copilot/?WT.mc_id=%3Fwt.mc_id%3Dstudentamb_465942" target="_blank" style="text-decoration: none; color: inherit;">
-          <strong style="font-size: 12px; color: #333;">Free Microsoft Courses</strong><br><br>
-          <span style="font-size: 10px; color: #333;">Access free Microsoft learning resources.</span>
+          <strong style="font-size: 12px;">Free Microsoft Courses</strong><br><br>
+          <span style="font-size: 10px;">Access free Microsoft learning resources.</span>
         </a>
       </div>
 
       <!-- Free Certifications -->
-      <div style="padding: 10px; border: 2px solid #66b3ff; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); transition: transform 0.3s ease-in-out;">
+      <div style="padding: 10px; border: 2px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
         <a href="https://events.microsoft.com/allevents/?WT.mc_id=%3Fwt.mc_id%3Dstudentamb_465942" target="_blank" style="text-decoration: none; color: inherit;">
-          <strong style="font-size: 12px; color: #333;">Free Certifications</strong><br><br>
-          <span style="font-size: 10px; color: #333;">Find and earn free certifications to boost your career.</span>
+          <strong style="font-size: 12px;">Free Certifications</strong><br><br>
+          <span style="font-size: 10px;">Find and earn free certifications to boost your career.</span>
         </a>
       </div>
 
@@ -92,20 +91,9 @@ Let’s connect and build something great together!
 
 </div>
 
-<!-- Add hover effects -->
-<style>
-  a:hover {
-    color: #00e6e6; /* Light cyan color on hover for links */
-    text-decoration: underline;
-  }
-  
-  div:hover {
-    transform: scale(1.05); /* Slight scale-up effect on hover */
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); /* Slight glow effect on hover */
-  }
-</style>
-
+<!-- Space between Posts -->
 <div style="height: 50px;"></div> <!-- This creates space -->
+
 
 
 {: .prompt-tip }
