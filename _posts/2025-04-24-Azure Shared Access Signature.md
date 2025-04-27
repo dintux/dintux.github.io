@@ -49,6 +49,29 @@ author: Dinusha Tharindu
 <!-- Space between Posts -->
 <div style="height: 50px;"></div> <!-- This creates space -->
 
+A **Shared Access Signature (SAS)** is a way to grant limited access to resources in Azure without sharing your account keys. It provides a secure URL that specifies what actions can be performed (like read, write, or delete), on which resources (like storage containers, blobs, or queues), and for how long. This makes it easier to securely share access to Azure resources with others while maintaining control over the permissions and duration of access.
+
+### Hypothetical Example:
+
+Imagine you have an Azure Storage Blob that contains important files, and you want to share a document with a colleague without giving them full access to your storage account. You can create a SAS that allows them to **only read** the file for the next 24 hours. You generate the SAS URL and send it to them.
+
+Here's what the SAS URL might look like:
+
+```
+https://mystorageaccount.blob.core.windows.net/mycontainer/myfile.txt?sv=2022-02-01&st=2025-04-27T00%3A00%3A00Z&se=2025-04-28T00%3A00%3A00Z&sp=r&sig=xyz123
+
+```
+
+In this case:
+
+-   The `sp=r` part of the URL indicates that the user can only **read** the file.
+
+-   The `se=2025-04-28T00%3A00%3A00Z` indicates that the link will expire after 24 hours.
+
+-   The `sig=xyz123` is the signature to validate the request.
+
+Your colleague can now access the file using the SAS URL, but they won't be able to modify or delete anything in your storage account.
+
 
 ### **How a Shared Access Signature (SAS) Works**
 
