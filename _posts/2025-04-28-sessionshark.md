@@ -81,7 +81,7 @@ Multi-Factor Authentication (MFA) has long been considered a crucial layer of de
 </head>
 <body>
 
-<a class="learn-more" href="https://learn.microsoft.com/security/?WT.mc_id=%3Fwt.mc_id%3Dstudentamb_465942" target="_blank">
+<a class="learn-more" href="https://learn.microsoft.com/security/?WT.mc_id=studentamb_465942" target="_blank">
   Learn more from Microsoft
 </a>
 
