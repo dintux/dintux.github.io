@@ -26,7 +26,7 @@ author: Dinusha Tharindu
   
       <!-- Free Microsoft Courses -->
       <div style="padding: 15px; border: 2px solid #ccc; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-        <a href="https://learn.microsoft.com/copilot/?WT.mc_id=%3Fwt.mc_id%3Dstudentamb_465942" target="_blank" style="text-decoration: none; color: inherit;">
+        <a href="https://learn.microsoft.com/copilot/?WT.mc_id=studentamb_465942" target="_blank" style="text-decoration: none; color: inherit;">
           <strong style="font-size: 16px; color: #333; font-weight: bold;">Free Microsoft Courses</strong><br><br>
           <span style="font-size: 12px; color: #666;">Access free Microsoft learning resources.</span>
         </a>
@@ -34,7 +34,7 @@ author: Dinusha Tharindu
   
       <!-- Free Certifications -->
       <div style="padding: 15px; border: 2px solid #ccc; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-        <a href="https://events.microsoft.com/allevents/?WT.mc_id=%3Fwt.mc_id%3Dstudentamb_465942" target="_blank" style="text-decoration: none; color: inherit;">
+        <a href="https://events.microsoft.com/allevents/?WT.mc_id=studentamb_465942" target="_blank" style="text-decoration: none; color: inherit;">
           <strong style="font-size: 16px; color: #333; font-weight: bold;">Free Certifications</strong><br><br>
           <span style="font-size: 12px; color: #666;">Find and earn free certifications to boost your career.</span>
         </a>
