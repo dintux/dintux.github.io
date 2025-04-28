@@ -1,5 +1,5 @@
 ---
-title: SessionShark, How Attackers Bypass MFA and How to Defend Against It
+title: SessionShark, How Attackers Bypass MFA for Office365 and How to Defend Against It
 date: 2025-04-28 04:14 +0300
 categories: [Blogging, Cybersecurity, Defence]
 tags: [blog,security, Azure,Cloud,MFA]
@@ -58,7 +58,7 @@ author: Dinusha Tharindu
 
 Multi-Factor Authentication (MFA) has long been considered a crucial layer of defense in securing online accounts. However, recent developments in phishing-as-a-service (PhaaS) platforms such as **SessionShark** have demonstrated that even MFA is not impervious to compromise. SessionShark is a sophisticated phishing toolkit that enables cybercriminals to bypass MFA protections, particularly targeting Microsoft Office 365 environments. This article explores how SessionShark operates, how it manages to bypass MFA, and what organizations can do to mitigate the risk.
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
