@@ -98,5 +98,41 @@ Let’s connect and build something great together!
 <!-- Space between Posts -->
 <div style="height: 50px;"></div> <!-- This creates space -->
 
+#  (My Favirite Poem) 
+## 🌱 I Am My Own Grandfather(Rebirth) ##
+
+**Feared death**,  
+**To Preserved life**.  
+I took refuge in **trees** and **stones**.  
+I followed the stillness of **mountains**  
+and the vastness of **mountains**.
+
+**Finally**,  
+there was realization — **light**.  
+Light is **darkness**.  
+Darkness is **light**.  
+Cold is **heat**.  
+Heat is **cold**.  
+**Therefore**,  
+**life itself is death**.
+
+*Until now*,  
+I have tried to achieve many things,  
+and I have experienced  
+that the world cannot satisfy anyone.
+
+In the meantime,  
+I realized:  
+**Peace** and **harmony**  
+are not found  
+in extraordinarily beautiful resorts  
+or fascinating experiences on Earth.
+
+In reality,  
+they are found only in **our own minds**.  
+They are **born there** —  
+and nowhere else.
+
+
 
 {: .prompt-tip }
